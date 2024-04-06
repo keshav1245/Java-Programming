@@ -1,4 +1,4 @@
-package FirstSteps;
+package S01_FirstSteps;
 
 public class L04_PrimitiveDataTypes {
     public static void main(String[] args) {

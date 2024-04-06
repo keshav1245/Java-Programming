@@ -1,4 +1,4 @@
-package FirstSteps;
+package S01_FirstSteps;
 
 public class L05_Casting {
 

@@ -1,4 +1,4 @@
-package FirstSteps;
+package S01_FirstSteps;
 
 public class L06_PrimitiveChallenge {
     public static void main(String[] args) {

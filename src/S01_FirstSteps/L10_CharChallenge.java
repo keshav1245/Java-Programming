@@ -1,4 +1,4 @@
-package FirstSteps;
+package S01_FirstSteps;
 
 public class L10_CharChallenge {
     public static void main(String[] args) {
