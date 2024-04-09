@@ -41,6 +41,11 @@ class Adventure extends L03_Movie {
         super.watchMovie();
         System.out.printf("..%s%n".repeat(3),"Pleasant Scene", "Scary Music", "Something Bad Happens");
     }
+
+    public void watchAdventure(){
+        System.out.println("Watching Adventure");
+    }
+
 }
 
 
@@ -56,6 +61,10 @@ class Comedy extends L03_Movie {
         System.out.printf("..%s%n".repeat(3),"Something Funny happens", "Something even funnier happens",
                 "Happy Ending");
     }
+
+    public void watchComedy(){
+        System.out.println("Watching Comedy");
+    }
 }
 
 
@@ -69,6 +78,10 @@ class ScienceFiction extends L03_Movie {
     public void watchMovie() {
         super.watchMovie();
         System.out.printf("..%s%n".repeat(3),"Plot description", "Outer space", "Research documentary");
+    }
+
+    public void watchScienceFiction(){
+        System.out.println("Watching Science Fiction");
     }
 }
 
