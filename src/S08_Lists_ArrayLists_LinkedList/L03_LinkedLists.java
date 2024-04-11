@@ -27,12 +27,11 @@ public class L03_LinkedLists {
         System.out.println();
         testIterator(placesToVisit);
 
-//        gettingElements(placesToVisit);
-//        System.out.println(placesToVisit);
+        gettingElements(placesToVisit);
+        System.out.println(placesToVisit);
 
-//        removeElements(placesToVisit);
-//        System.out.println(placesToVisit);
-
+        removeElements(placesToVisit);
+        System.out.println(placesToVisit);
 
     }
 
